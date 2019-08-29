@@ -1,6 +1,6 @@
 ﻿namespace _1730jsparks2019
 {
-    partial class Form1
+    partial class frminvioceTotal
     {
         /// <summary>
         /// Required designer variable.
